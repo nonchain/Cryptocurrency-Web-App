@@ -15,3 +15,8 @@ For cryptocurrencies details, such as `Price`, `Rank`, ...
 
 ### [Bing News Search](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1/)
 For cryptocurrencies latest news
+
+
+
+
+### Preview [Link](https://rivertonews.netlify.app/)
