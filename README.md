@@ -10,9 +10,11 @@ This project was build with [React](https://reactjs.org/).
 
 💢 View the details of each currency separately, such as price changes, etc
 
+##### Designed with `Ant Design` library
+
 ## Some packages used in this project
 
-Reduxtoolkit . Ant Design . Axios . React Router v6 . Chart js
+Reduxtoolkit . Axios . React Router v6 . Chart js
 
 ## Fetching data
 
