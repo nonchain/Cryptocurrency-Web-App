@@ -5,7 +5,9 @@ This project was build with [React](https://reactjs.org/).
 A simple cryptocurrency web application that you can :
 
 💢 View the price of various currencies (along with the price chart)
+
 💢 Read the latest news related to cryptocurrencies (with category filter)
+
 💢 View the details of each currency separately, such as price changes, etc
 
 ## Some packages used in this project
