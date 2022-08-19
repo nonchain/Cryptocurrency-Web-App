@@ -1,4 +1,5 @@
 # Riverto - Cryptocurrency Web App
+An online Cryptocurrencies Data & News Web App
 
 This project was build with [React](https://reactjs.org/).
 
